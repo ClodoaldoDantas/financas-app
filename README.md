@@ -1,9 +1,9 @@
 ## :money_with_wings: Finanças
 
 <p>
-  <img src="./src/screenshots/photo-1.png" width="33%" />
-  <img src="./src/screenshots/photo-2.png" width="33%" />
-  <img src="./src/screenshots/photo-3.png" width="33%" />
+  <img src="./src/screenshots/photo-1.png" width="30%" />
+  <img src="./src/screenshots/photo-2.png" width="30%" />
+  <img src="./src/screenshots/photo-3.png" width="30%" />
 </p>
 
 
