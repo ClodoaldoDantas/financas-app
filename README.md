@@ -1,8 +1,11 @@
 ## :money_with_wings: Finanças
 
-![Screenshot 1](src/screenshots/photo-1.png)
-![Screenshot 2](src/screenshots/photo-2.png)
-![Screenshot 3](src/screenshots/photo-3.png)
+<p>
+  <img src="./src/screenshots/photo-1.png" width="33%" />
+  <img src="./src/screenshots/photo-2.png" width="33%" />
+  <img src="./src/screenshots/photo-3.png" width="33%" />
+</p>
+
 
 ## :fire: Instalação
 
